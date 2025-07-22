@@ -29,4 +29,4 @@ This system improves traceability, reduces overhead, and keeps engineering workf
 
 ## 📘 User Guide
 
-For a complete step-by-step setup — including EC2 configuration, JIRA API token generation, Flask deployment, and webhook integration — refer to the [User Guide]([url](https://docs.google.com/document/d/1WqYXAU8CLbdxqbh_Gwm6yQwdJUA-Hc4EDcOkYmlqX7A/edit?usp=sharing))
+For a complete step-by-step setup — including EC2 configuration, JIRA API token generation, Flask deployment, and webhook integration — refer to the [User Guide](https://docs.google.com/document/d/1WqYXAU8CLbdxqbh_Gwm6yQwdJUA-Hc4EDcOkYmlqX7A/edit?usp=sharing)
